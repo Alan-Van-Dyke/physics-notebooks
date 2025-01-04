@@ -14,5 +14,9 @@ env/
 #Full datasets (too large)
 /data
 
+#Output files
+output.*
+
+
 #VSCode files
 .vscode/
